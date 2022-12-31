@@ -1,3 +1,4 @@
-# CSE130 Repo
+# Principles of Computer Systems Design
 
-Repo to hold CSE130 work.
+Repo to hold Principles of Computer Systems Design work. /
+Source code written in C
